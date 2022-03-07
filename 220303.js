@@ -18,3 +18,4 @@ function circle(n){
 
 const r3 = prompt("원의 반지름을 입력하세요");
 console.log(circle(r3));
+//function 사용
